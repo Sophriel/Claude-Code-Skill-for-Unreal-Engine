@@ -1,4 +1,4 @@
-# Unreal Engine Skill for Claude
+# Claude Code Skill for Unreal Engine
 
 A comprehensive Claude skill for Unreal Engine C++ development with deep project structure understanding, GAS integration, plugin development guidance, and data-driven design patterns.
 
