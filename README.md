@@ -2,6 +2,8 @@
 
 A comprehensive Claude skill for Unreal Engine C++ development with deep project structure understanding, GAS integration, plugin development guidance, and data-driven design patterns.
 
+Originated from https://github.com/DSTN2000/claude-unreal-engine-skill
+
 ## Features
 
 - **Zero Assumptions Philosophy**: Always discovers your project structure before suggesting code
